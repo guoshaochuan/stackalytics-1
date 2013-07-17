@@ -20,3 +20,6 @@ requests>=2.5.2
 requests-file
 sh
 six>=1.9.0
+
+# Mirantis
+pillow
